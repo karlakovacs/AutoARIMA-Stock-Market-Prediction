@@ -5,3 +5,4 @@ Project submitted to the CodeEDU: SpringHacks 2024 Hackathon, organized by CodeE
 https://autoarima-stock-market-prediction.streamlit.app/
 
 # Link to DevPost
+https://devpost.com/software/autoarima-stock-market-prediction
